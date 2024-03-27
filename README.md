@@ -4,8 +4,8 @@ Hopfield Electrons is a deep learning model for quantum chemistry and physics. Q
 
 This model combines efficient equivariant methods for positional data and continuous Hopfield networks, while enforcing anti-symmetric solutions in line with Fermionic solutions.
 
-## Model Architecture
+<!--## Model Architecture
 
 ## Installation
 
-## Training data
+## Training data-->
